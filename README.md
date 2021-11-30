@@ -17,3 +17,6 @@
 - [CVPR 20](https://openaccess.thecvf.com/CVPR2021)
 
 - 
+
+# Some useful links
+- [CVPR papers by category](https://github.com/amusi/CVPR2021-Papers-with-Code)
