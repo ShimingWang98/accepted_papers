@@ -9,3 +9,6 @@
 
 - [S&P 21](http://www.ieee-security.org/TC/SP2021/program-papers.html)
 - [S&P 20](http://www.ieee-security.org/TC/SP2020/program-papers.html)
+
+- [CCS 21](https://www.sigsac.org/ccs/CCS2021/accepted-papers.html)
+- [CCS 20](https://www.sigsac.org/ccs/CCS2020/accepted-papers.html)
