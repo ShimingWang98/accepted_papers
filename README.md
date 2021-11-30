@@ -16,7 +16,8 @@
 - [CVPR 21](https://openaccess.thecvf.com/CVPR2021)
 - [CVPR 20](https://openaccess.thecvf.com/CVPR2021)
 
-- 
+- [ICML 21](https://proceedings.mlr.press/v139/)
+- [ICML 20](https://proceedings.mlr.press/v119/)
 
 # Some useful links
 - [CVPR papers by category](https://github.com/amusi/CVPR2021-Papers-with-Code)
