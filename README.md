@@ -1,6 +1,4 @@
-# Introduction
-
-Official websites of accepted papers on AI/security conferences.
+# Official websites of accepted papers on AI/security conferences.
 
 - [NIPS 21](https://papers.nips.cc/paper/2021)
 - [NIPS 20](https://papers.nips.cc/paper/2020)
